@@ -1,0 +1,22 @@
+
+tan(x)
+log(10, 1 / x)
+tan(1 / sin(x^2))
+log(10, 1 / x)
+arccos(x)
+arctan(x)
+x^2
+sin(1 / x)
+log(1 / x, 1/ x)
+log(1 / x, 1 / x)
+x^2 + 2*x + 1
+sin(x)
+
+
+
+
+
+
+
+
+
